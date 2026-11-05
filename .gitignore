@@ -1,2 +1,4 @@
 .env*
 .p0-setup-script-marker
+.phase0-setup
+.phase0-setup-time
